@@ -1,7 +1,8 @@
 # LoLStats_Demo
-Check out your League of Legends ranked classification depending on the server. Includes a history of searches stored in Firebase database.
-First half of the video shows the iOS version, developed natively in Xcode (Swift programming language).
-Second half of the video shows the Android version, developed natively in Android Studio (Java programming language).
+Check out your League of Legends ranked classification depending on the server. 
+- Includes a history of searches stored in Firebase database.
+- First half of the video shows the iOS version, developed natively in Xcode (Swift programming language).
+- Second half of the video shows the Android version, developed natively in Android Studio (Java programming language).
 
 
 
